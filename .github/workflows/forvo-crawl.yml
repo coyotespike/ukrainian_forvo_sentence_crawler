@@ -1,0 +1,49 @@
+name: Forvo Ukrainian phrase crawl
+
+on:
+  workflow_dispatch:        # run manually from the Actions tab
+  schedule:
+    # Daily at 23:00 UTC, ~1h after Forvo's 22:00 UTC daily quota reset.
+    # Acts as a safety net: if a run hits the 500/day cap, the next day resumes.
+    - cron: "0 23 * * *"
+
+permissions:
+  contents: write           # needed to commit the data/ output back
+
+concurrency:
+  group: forvo-crawl
+  cancel-in-progress: false # let an in-flight crawl finish; queue the next
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crawler
+        env:
+          FORVO_API_KEY: ${{ secrets.FORVO_API_KEY }}
+          # RECRAWL: "1"   # uncomment once to wipe progress and start over
+        run: python crawl_forvo.py
+
+      - name: Commit results
+        if: always()        # persist checkpoint even if the crawl errored
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Forvo uk phrase data [skip ci]"
+            git push
+          fi

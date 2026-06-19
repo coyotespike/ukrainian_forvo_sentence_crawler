@@ -1,0 +1,7 @@
+# Seed builder only (not needed by the crawler/runner).
+requests>=2.31
+wordfreq>=3.0
+pymorphy3>=2.0.2
+pymorphy3-dicts-uk
+pymorphy3-dicts-ru
+stopwordsiso>=0.6.1

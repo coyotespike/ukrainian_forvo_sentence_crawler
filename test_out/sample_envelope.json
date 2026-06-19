@@ -1,0 +1,318 @@
+{
+  "attributes": {
+    "page": 1,
+    "pagesize": "100",
+    "total_pages": 1,
+    "total": 14
+  },
+  "items": [
+    {
+      "id": 293574,
+      "word": "друг",
+      "original": "друг",
+      "num_pronunciations": "4",
+      "standard_pronunciation": {
+        "id": 703504,
+        "addtime": "2010-08-03 23:56:28",
+        "hits": 2727,
+        "username": "Sivir",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/1m3k1j2i2o21291g3h1o1o2h3e342j36222j383e293632272b1f2a1l3a3f3p3q3e211p283g2f1j282c1j2f2m1l1i3o2a2f242i2k3c3c2q24242a342f1i3p1g1h261g38213c27313f2p2q2m3j1f3n3627213f3k3821211t1t_2j1h2l2a3f311j212f322j351h3l2q2332393f1i3k2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2n3k2g2f3n312h1j3i2q212c3g2e1j3p1l3n3k291b211g3j1m1m2e3i3d3n3d2j1f1f2g3c1f3p281g222q311g3h2f2g2b2e361l392b28291b2p34281o1n1f32392p3q3f361f2n1k3821343p3338332b2q2i1h3k2a1b3n1t1t_1h3f1m1p3c393g272j2f1h1i2i3j2k38381p3h271o2h1t1t",
+        "rate": 1,
+        "num_votes": 1,
+        "num_positive_votes": 1
+      }
+    },
+    {
+      "id": 4376562,
+      "word": "мій_друг",
+      "original": "мій друг",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 4167993,
+        "addtime": "2016-02-28 02:12:59",
+        "hits": 1330,
+        "username": "kurufin_the_crafty",
+        "sex": "f",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/3e1k283o3223261k21232q2q3b321b1l2d3c363m1p2a383q2h2d1g292h3d3n3b251k2h3b1h1i3d2l1n3g2d22241l3n22323m2o1f1l3q1l1j2m29392j3p2g313q24372f2124372k222j2l2j363f2b28241g1o1n393i2h1t1t_3o1g1b3l2n362d3q2j1i3n1n333c313m1n25243e3k3n1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/393q1j2m31212h2j2d3l2l2a3b3h1l2b2k1g34352f1n283h2e242g3m2j383a2634243o3p3c212j33212a3a2e1h3h2d2h213q3f2b293k3d26232n352n261o332b242o393b2q1o1g2p1o1i272k1p2p1l2q1p3d3k1j2k371t1t_2l1f2k2o1o2j3q1h372g333a2h332c383i1k2p2o2j2h1t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 6774449,
+      "word": "це_мій_друг.",
+      "original": "Це мій друг.",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 6489873,
+        "addtime": "2020-02-02 21:15:24",
+        "hits": 118,
+        "username": "oazaua",
+        "sex": "f",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/2m1i1p1k3b2a3q351m223o3h3b292f3e1k3f1p3p2g2e322l2o3b1g29363o233q2n3j253j1j361j341o2m3f1m3m36262439332i1k1k2b1b32343h262n2a342k1k29232m343d32353j3g3c1i2l3n1j212p1i3821342p3n1t1t_222f323k2j3o231k371n3o1b1n1o2m3l3q3i3l293d371t1t",
+        "pathogg": "https://apifree.forvo.com/audio/1h1n3g3m212i1n1b1b2d1j3f1j1l1g2f2m212p3p3f1l291n2g1j2a3l3h3a3m3h322p2q1o212p1n2h2k28331f3c2k2a2h3a2p31242f1o2l3f362n1l282i3j2j1n3f3n2f1m2n1i2i3i212o381l1j2o1l221f3m2k1f39211t1t_2k2f3a1p3m3m363o2a3h1h1h233c39372m2i3i2d2a211t1t",
+        "rate": 1,
+        "num_votes": 1,
+        "num_positive_votes": 1
+      }
+    },
+    {
+      "id": 7072459,
+      "word": "чотирилапий_друг",
+      "original": "чотирилапий друг",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 6815505,
+        "addtime": "2016-12-25 16:27:35",
+        "hits": 135,
+        "username": "ValerieT",
+        "sex": "f",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/2j1j1p1j2q2q311b251i3n351j3l2o1f1n1p1o2l242o2l252n2f3a2i2e2h1g3c3n2c3b2q2m33393f3l21361l2n373b2a3o333c391h2122311m2a2j1m3b243m32353m1n2l2m331h382f252q383p333c3d3a1h2b3f243n1t1t_2h3e3d1h2g1f2m262m3e24381n22242i3h2i2222243n1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2c392f231n3d3535272f1g1k1g3q1p2k381i281g3q242l2m353g381l2e3g1m3h1j2a2f1b3a1n3p3i2h1b3b2i3733222i313f1l332i251g1j2n282g2c3o3c2n3i1i3k3f2b2l3p3j3f1h2b282q3a382h3n2g2h291n2h371t1t_21382i2g2j2e3m3k3h3q333o2d1h2i241l2o1p3g2i2h1t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 7800304,
+      "word": "мій_друг_майже_одного_віку_зі_мною",
+      "original": "Мій друг майже одного віку зі мною",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 7580658,
+        "addtime": "2021-01-26 18:18:00",
+        "hits": 62,
+        "username": "Yuliyab",
+        "sex": "f",
+        "country": "Italy",
+        "country_code": "IT",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/2q251i3f1j1j27212n1o1f1i1i252p33313o373c2i242f3i1l3n292e2d2m2i3p292k1j231p39312p2m1k3c3k3d2f2h3l1m1l3d2i3b2c2n242j1k2q3b1i29373q3h2934243g2k373n331f2q1p272m1o32252i3f363l2h1t1t_3a1p3b3e1j3d3a3n223f383o2e1f1b3q3h3l1k353j2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2d293q1j3c3228262n3p3c292a232h2k2a1k3b311k232k1g1g2a273a2b3q2c37263h3a2f1n3e242a2h3a391f1m3l1p321g2o3m33272n2e1p2m322626283p282h3m3m1o371m3l2h2j212o1k1o3k37382j382f1h3o323n1t1t_3p313q3g312k2p2k2n273q37362p2h2735233i231p371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 7873930,
+      "word": "друг_пізнається_в_біді",
+      "original": "Друг пізнається в біді",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 7647613,
+        "addtime": "2021-02-22 19:58:09",
+        "hits": 21,
+        "username": "tehpoison",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/292f1o341g331n3k3f2p1m2531332f2f1i1b2h3k2j1p342n2g3j1j1n39383c2j2i2m1k211k2c3p1j3d3c2f221o322833333o34261g2f2j3h1k2o2n2c3q36331j383i2k2f243m1p3d3b381g2b1l2o2k362h2m323b2a2h1t1t_1o3g2h3i3j3q212k2f351k3q33273g2i3b313d2e2j3n1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/3322392p1i1j1h3i3q2m3h213g3928252d393d341f2o262b2i1p312b3j2j3i2e3e3p2333252h3o21372f3l1i371m2d1h2q3f3j1k3n2a36283h3n2q2k3c2f3c1o2e22333l26232j28383o1f243e3l27381b3b1p3i2k371t1t_21382o2i2a1b263c1o1b272h282m2f2i3n373g1b3p371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8040988,
+      "word": "мій_друг_кинув_м'яча_через_паркан.",
+      "original": "Мій друг кинув м'яча через паркан.",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 7775841,
+        "addtime": "2021-05-04 22:22:29",
+        "hits": 28,
+        "username": "jaroslawa",
+        "sex": "f",
+        "country": "Slovakia",
+        "country_code": "SK",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/362m1h2b1j2i3i3m2h25272g3n3g1l321l333a212m271n1k2b1f382i3i3d231i3h273g3h3e3e3f1k28362b2b1f3c3h223d26332b341p282k381g3l261j391b3b1b3o1b3e1m3k372k342o1m3p2f29343h3n362739262h1t1t_1p3e3m2q2b3l2l3a3d2l3c3f2k312c3m3j223i293q3n1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/283e373p3f2n26222g261b35341i39272o1j3d3q23223o1m3f1k233l3h313f1p1o3o28273n1h3f2l1f2p3n282m2f2o263n393b3f292n1m221o3d3h1o3g2529341k2q221p1h1i2e29363m1m332j1g1h3p2g1m383b3g211t1t_2n2j312a362l1g283j2l2a3m223i2k21392j2j3n35371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8574029,
+      "word": "друг_мого_друга",
+      "original": "друг мого друга",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8247238,
+        "addtime": "2022-08-08 11:56:34",
+        "hits": 17,
+        "username": "anastasiiaputilina7",
+        "sex": "f",
+        "country": "Germany",
+        "country_code": "DE",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/3q313i32211o233c223e213o223b221f273c2a383e2j3o2n2c1k2g3g2l31251f283225392n36293d2e261i2n221o1p3c353c3p3h2c3e2q33213g2p1b2e2a3p2d1h3634363q3e393m1g2k271j2335362o1k1l1o222n211t1t_3f28392i272c1k372m1l1o3d1p1j3f1o3d1g2p332q2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2f383a1m1m352f3m322d3a2n24292b251j212a312f2q262135223d1p2b3l211h35212f3239212h3c2q2q1k1j2o1k2j39231h3b3k2o1m3b253d3e1f3a2a333f32212o1h1b2c2g223n3p2k2a2p1o391h253a2i3h1k242h1t1t_3i313g3j312n3f2i21342i1i213o331n1g2m1h2l263n1t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8576520,
+      "word": "мій_друг_захворів",
+      "original": "Мій друг захворів",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8250962,
+        "addtime": "2022-08-11 17:12:59",
+        "hits": 24,
+        "username": "chepp",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/3g2m2a3g3336272q1j3q1h342a3o231p2f2k3m2c31262k321i3a3e1l3h3i333i3o263i251o26353h3c3g2f353f292a263g2d1g3o2c2n3l3k3929252n3k3q2n381p2q1f2o3f361b1f2e3m2i1h2h1j27373n3b1i1g2e211t1t_343n3i2g2b2a312l293p1f1i1o2k361m1p3g3a3i1f2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/1g3b2h1m212j2e2l3o2e2d1p2i1f2225212n283g2l262d3a281m2g2h341p3232273k333l2l39371b2j1f3l3l1n3l372621393l1j1n2b3c36381b1l2k1n3d1b2q3e1i3c1k381g1k2k3k363n1m243c1l291n373f241h211t1t_2l2m353e322q2f1b2q1j352e2d2k2g3d372329373i371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8700839,
+      "word": "я_християнин,_а_мій_друг_мусульманин",
+      "original": "Я християнин, а мій друг мусульманин",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8386403,
+        "addtime": "2022-12-17 09:04:08",
+        "hits": 31,
+        "username": "maxymczech",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/3o3n382o3h1l321i293c211p1g3m2p2i1h221f29371f2a392m331h262e2q382q2i2p1h341b2n28263m3a232g242f1j362a26392e36332d2e1m372a3m3d1p2n2b38241h1j271k1k29343335371b3d371o2d3b3p3p22211t1t_2m3a1j2c2f223l2g3q35343j3l1n242i23382e2o3f2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2g2o3p2f2d3f2q1p3e2m3l27313g2e3c331o3p2q2c1i252k23342i2h3o2m1n1g1h293j1g2p3i3l1p2e3d1g3p2c2j391o2b392c3j3326321h2c2k1g3q2p1m383c352o322b2b212k3f1l21393l332o341o22393o1f2g3n1t1t_3l2i252f343h1b2f392h3o1n2d3g2q24252m2k392i211t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8751308,
+      "word": "кращий_друг",
+      "original": "кращий друг",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8464337,
+        "addtime": "2023-02-25 11:21:28",
+        "hits": 15,
+        "username": "Nastia37",
+        "sex": "f",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/291o293e3p28312p261g1o3d1n3p2e2p2c2l292l3e1l223c2m241m3l3q272127231h3f3f2p3e2b1b2m2c2a2h32361i3f1m3i213h1g2g3f282e3b1n2p3i3p35353e2p1n27272g321o391j3o2e3q2p382q3f2n39212h211t1t_3q2j3g2p3c2b1g281l332l1o313i1b1o3o1o3a3h28211t1t",
+        "pathogg": "https://apifree.forvo.com/audio/1p3q2h3j2i3f2e2p1j242f1h3p3j2f25352l2j29343h292i2m37261k3o1l2h2l2i322q3l2o2q3p2o1m3n2a3o262c22361h28283e263b282n2n3a1g1g2j222m251l2435393f3532372n2i3n3l2c3621223n242d1h1l211t1t_3k2k37353o343p2b2q291n24391n362q243n2q373h2h1t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8956730,
+      "word": "мій_друг_французький_пес_і_йому_нічого_не_подобається",
+      "original": "мій друг французький пес і йому нічого не подобається",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8666566,
+        "addtime": "2023-10-04 10:09:03",
+        "hits": 32,
+        "username": "tehpoison",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/1l1i371h3h2a3d1k3l3d1n3n361f373n3a3a223e3j1l1i1l2f3g3l1l2o391j1b2k2f2k3d2p2h2q362p381p1n313e3f3e293p3k3c2q2227282d1n3i242h2l313d353k3q282j1i3e2h3f282p3d2e342f313o3a3p1m1n2h1t1t_1b2o3c3j1g223d251h2g2j3e2p2e381n373e3m2c1h3n1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/1p3n3b2b1f1n1h3i3e3n3n32381g3e281k1o2q3f2g2m3k1h291j2k3h1j3q2a39273g1n343m3e1b2m2e3n383132262532322a3b293q3p3b2a3n332m2i1f2n3d272b2n1b32362m1h3l3i2j293c1g32382j3g1m213b2n3n1t1t_1m342j1f2c36293k3q3n22241m2g252j3l38232i1m3n1t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 8980243,
+      "word": "якуб_мирончук_чудовий_друг,_але_іноді_він_дратує",
+      "original": "Якуб Мирончук чудовий друг, але іноді він дратує",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8684909,
+        "addtime": "2023-10-24 14:03:56",
+        "hits": 16,
+        "username": "Nikkolay",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/263a233n3a3p2e3q343h241b1n3l3e3b362q252c2a1l1b3e2k343o3p2q2c3c3p3k313e3m292o252c3n1h3h283k2e3q2m353o2j3k2b292a3c2i3c1o3l382l1l3j1m283l3h223o3d3n3b1l211j2j3m3l2i271i29233i3n1t1t_3b2e3g3h3m3a2p31232j271k2327352d3l371m283i211t1t",
+        "pathogg": "https://apifree.forvo.com/audio/2i312m2j1l1n2o321p2f382h242i3c3j3a1o1f373p2d1l353f2o2c1p1o1n1k1m24311f241k323q1l253d2j212p3c293q3l2o3l372e2m3q263m2j2f2l3j3a1i313k1h1n3l383j1k3m2i2c3e3h24362f262h3p3k371p2h1t1t_3n3321322k3o311j3f242o2o3e3d1b3b1l3p2d2i1m371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    },
+    {
+      "id": 9234313,
+      "word": "вірний_друг",
+      "original": "вірний друг",
+      "num_pronunciations": "1",
+      "standard_pronunciation": {
+        "id": 8961683,
+        "addtime": "2024-10-04 21:00:14",
+        "hits": 3,
+        "username": "niknikitiuk1",
+        "sex": "m",
+        "country": "Ukraine",
+        "country_code": "UA",
+        "code": "uk",
+        "langname": "Ukrainian",
+        "pathmp3": "https://apifree.forvo.com/audio/281i2k292g2o3e3p2927252p2a332e262d3g3a3f1j342o2q33223e26352a291p341p2435212c2p2e252n2i33383j1p1l3l343n2q3c3p3a3a3n1f2m1m2e1b3d1k3o3l1p2q3l331j1j21371f39362f3q2i3m2q283q3q371t1t_24282c3a3l1m3n2b383c2o2o3f1n331h3n2o39332a2h1t1t",
+        "pathogg": "https://apifree.forvo.com/audio/3g1g1o2m2p332l3j282n3f2o3g3q232e3824392i3k2n3k2m2e1h29383j3o1p2f2q3j3q2o2d362h242f1p392n3m382c1p2o343o2n2f1g3j1g1j352j211m2q1m1n2e1g293m2q2d3m22351g2d1n1n3o1l293j38332131371t1t_2q3j3d3q31273431311b1b3f1m2n2i3i261k3k311p371t1t",
+        "rate": 0,
+        "num_votes": 0,
+        "num_positive_votes": 0
+      }
+    }
+  ]
+}
