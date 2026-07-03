@@ -82538,5 +82538,2465 @@
     "id": "7348111",
     "original": "Яким боком вставляти картку в банкомат",
     "num_pronunciations": 1
+  },
+  "2127895": {
+    "id": "2127895",
+    "original": "користувач",
+    "num_pronunciations": 2
+  },
+  "903829": {
+    "id": "903829",
+    "original": "куб",
+    "num_pronunciations": 2
+  },
+  "6737108": {
+    "id": "6737108",
+    "original": "феритовий куб",
+    "num_pronunciations": 1
+  },
+  "635230": {
+    "id": "635230",
+    "original": "куля",
+    "num_pronunciations": 1
+  },
+  "5854369": {
+    "id": "5854369",
+    "original": "повітряна куля",
+    "num_pronunciations": 1
+  },
+  "6725912": {
+    "id": "6725912",
+    "original": "розривна куля",
+    "num_pronunciations": 1
+  },
+  "6841324": {
+    "id": "6841324",
+    "original": "земна куля",
+    "num_pronunciations": 1
+  },
+  "9313857": {
+    "id": "9313857",
+    "original": "куля в лоб",
+    "num_pronunciations": 1
+  },
+  "1308435": {
+    "id": "1308435",
+    "original": "кшталт",
+    "num_pronunciations": 1
+  },
+  "2114650": {
+    "id": "2114650",
+    "original": "на кшталт",
+    "num_pronunciations": 1
+  },
+  "8622106": {
+    "id": "8622106",
+    "original": "щось на кшталт",
+    "num_pronunciations": 1
+  },
+  "8566071": {
+    "id": "8566071",
+    "original": "ліси",
+    "num_pronunciations": 1
+  },
+  "586348": {
+    "id": "586348",
+    "original": "меню",
+    "num_pronunciations": 1
+  },
+  "6641128": {
+    "id": "6641128",
+    "original": "фан-меню",
+    "num_pronunciations": 1
+  },
+  "7143129": {
+    "id": "7143129",
+    "original": "Чи є у вас є дитяче меню?",
+    "num_pronunciations": 1
+  },
+  "8574740": {
+    "id": "8574740",
+    "original": "меню в ресторані",
+    "num_pronunciations": 1
+  },
+  "8574846": {
+    "id": "8574846",
+    "original": "увійти до меню",
+    "num_pronunciations": 1
+  },
+  "8703963": {
+    "id": "8703963",
+    "original": "мережах",
+    "num_pronunciations": 1
+  },
+  "630949": {
+    "id": "630949",
+    "original": "метал",
+    "num_pronunciations": 1
+  },
+  "1829743": {
+    "id": "1829743",
+    "original": "хеві-метал",
+    "num_pronunciations": 1
+  },
+  "3054918": {
+    "id": "3054918",
+    "original": "метал-кор",
+    "num_pronunciations": 1
+  },
+  "3056619": {
+    "id": "3056619",
+    "original": "монель-метал",
+    "num_pronunciations": 1
+  },
+  "3057215": {
+    "id": "3057215",
+    "original": "мунц-метал",
+    "num_pronunciations": 1
+  },
+  "6359193": {
+    "id": "6359193",
+    "original": "блек-метал",
+    "num_pronunciations": 1
+  },
+  "6723908": {
+    "id": "6723908",
+    "original": "натоплений метал",
+    "num_pronunciations": 1
+  },
+  "6723967": {
+    "id": "6723967",
+    "original": "багатосірчистий метал",
+    "num_pronunciations": 1
+  },
+  "6725879": {
+    "id": "6725879",
+    "original": "платиновий метал",
+    "num_pronunciations": 1
+  },
+  "6728303": {
+    "id": "6728303",
+    "original": "лужноземельний метал",
+    "num_pronunciations": 1
+  },
+  "6737989": {
+    "id": "6737989",
+    "original": "леґувальний метал",
+    "num_pronunciations": 1
+  },
+  "7672591": {
+    "id": "7672591",
+    "original": "дез-метал",
+    "num_pronunciations": 1
+  },
+  "7672596": {
+    "id": "7672596",
+    "original": "Мошити під дез-метал.",
+    "num_pronunciations": 1
+  },
+  "7672601": {
+    "id": "7672601",
+    "original": "Металхед - це той, хто слухає метал.",
+    "num_pronunciations": 1
+  },
+  "1413982": {
+    "id": "1413982",
+    "original": "морський",
+    "num_pronunciations": 1
+  },
+  "2826368": {
+    "id": "2826368",
+    "original": "морський вузол",
+    "num_pronunciations": 1
+  },
+  "3837500": {
+    "id": "3837500",
+    "original": "морський їжак",
+    "num_pronunciations": 1
+  },
+  "4214782": {
+    "id": "4214782",
+    "original": "морський котик",
+    "num_pronunciations": 1
+  },
+  "6878615": {
+    "id": "6878615",
+    "original": "морський порт",
+    "num_pronunciations": 1
+  },
+  "5406211": {
+    "id": "5406211",
+    "original": "Напої",
+    "num_pronunciations": 1
+  },
+  "3084190": {
+    "id": "3084190",
+    "original": "спиртні напої",
+    "num_pronunciations": 1
+  },
+  "8574819": {
+    "id": "8574819",
+    "original": "напої з фруктів",
+    "num_pronunciations": 1
+  },
+  "8574820": {
+    "id": "8574820",
+    "original": "напої з меду",
+    "num_pronunciations": 1
+  },
+  "6536041": {
+    "id": "6536041",
+    "original": "небезпечно",
+    "num_pronunciations": 1
+  },
+  "7405951": {
+    "id": "7405951",
+    "original": "Після дощів купатися небезпечно",
+    "num_pronunciations": 1
+  },
+  "6719332": {
+    "id": "6719332",
+    "original": "нідерландах",
+    "num_pronunciations": 1
+  },
+  "6720886": {
+    "id": "6720886",
+    "original": "німецьких",
+    "num_pronunciations": 1
+  },
+  "7955257": {
+    "id": "7955257",
+    "original": "розгромив німецьких лицарів Тевтонського ордену",
+    "num_pronunciations": 1
+  },
+  "2017568": {
+    "id": "2017568",
+    "original": "обирати",
+    "num_pronunciations": 1
+  },
+  "6719371": {
+    "id": "6719371",
+    "original": "одеська",
+    "num_pronunciations": 1
+  },
+  "1238714": {
+    "id": "1238714",
+    "original": "Олени Пчілки",
+    "num_pronunciations": 1
+  },
+  "1238773": {
+    "id": "1238773",
+    "original": "Олени Теліги",
+    "num_pronunciations": 1
+  },
+  "790257": {
+    "id": "790257",
+    "original": "Організм",
+    "num_pronunciations": 1
+  },
+  "5669113": {
+    "id": "5669113",
+    "original": "генетично модифікований організм",
+    "num_pronunciations": 2
+  },
+  "6719395": {
+    "id": "6719395",
+    "original": "організму",
+    "num_pronunciations": 1
+  },
+  "367343": {
+    "id": "367343",
+    "original": "основа",
+    "num_pronunciations": 2
+  },
+  "6737727": {
+    "id": "6737727",
+    "original": "основа трикутника",
+    "num_pronunciations": 1
+  },
+  "1296444": {
+    "id": "1296444",
+    "original": "перетворити",
+    "num_pronunciations": 1
+  },
+  "1190199": {
+    "id": "1190199",
+    "original": "повторно",
+    "num_pronunciations": 1
+  },
+  "1295736": {
+    "id": "1295736",
+    "original": "посада",
+    "num_pronunciations": 1
+  },
+  "8739279": {
+    "id": "8739279",
+    "original": "мерська посада",
+    "num_pronunciations": 1
+  },
+  "3254417": {
+    "id": "3254417",
+    "original": "послав",
+    "num_pronunciations": 1
+  },
+  "9342057": {
+    "id": "9342057",
+    "original": "починаються",
+    "num_pronunciations": 1
+  },
+  "1270067": {
+    "id": "1270067",
+    "original": "приготувати",
+    "num_pronunciations": 2
+  },
+  "6728159": {
+    "id": "6728159",
+    "original": "природні",
+    "num_pronunciations": 1
+  },
+  "6724036": {
+    "id": "6724036",
+    "original": "природні завади",
+    "num_pronunciations": 1
+  },
+  "1194604": {
+    "id": "1194604",
+    "original": "пісок",
+    "num_pronunciations": 1
+  },
+  "6727595": {
+    "id": "6727595",
+    "original": "дрібнозернистий пісок",
+    "num_pronunciations": 1
+  },
+  "1117040": {
+    "id": "1117040",
+    "original": "радіти",
+    "num_pronunciations": 2
+  },
+  "8614881": {
+    "id": "8614881",
+    "original": "радіти до безтями",
+    "num_pronunciations": 1
+  },
+  "2028068": {
+    "id": "2028068",
+    "original": "редакція",
+    "num_pronunciations": 1
+  },
+  "1294252": {
+    "id": "1294252",
+    "original": "розлучення",
+    "num_pronunciations": 1
+  },
+  "6719765": {
+    "id": "6719765",
+    "original": "розмов",
+    "num_pronunciations": 1
+  },
+  "6276333": {
+    "id": "6276333",
+    "original": "розмовляє",
+    "num_pronunciations": 1
+  },
+  "8603698": {
+    "id": "8603698",
+    "original": "розпочалася",
+    "num_pronunciations": 1
+  },
+  "8722214": {
+    "id": "8722214",
+    "original": "розумінні",
+    "num_pronunciations": 1
+  },
+  "8526780": {
+    "id": "8526780",
+    "original": "в певному розумінні",
+    "num_pronunciations": 1
+  },
+  "8722215": {
+    "id": "8722215",
+    "original": "в етичному розумінні",
+    "num_pronunciations": 1
+  },
+  "8614884": {
+    "id": "8614884",
+    "original": "кохати всім серцем",
+    "num_pronunciations": 1
+  },
+  "8519529": {
+    "id": "8519529",
+    "original": "скоріш за все",
+    "num_pronunciations": 1
+  },
+  "8565940": {
+    "id": "8565940",
+    "original": "Скоріш би це все закінчилося",
+    "num_pronunciations": 1
+  },
+  "2377882": {
+    "id": "2377882",
+    "original": "судження смаку",
+    "num_pronunciations": 1
+  },
+  "7280230": {
+    "id": "7280230",
+    "original": "Ні, не роздягайся, ти не в моєму смаку.",
+    "num_pronunciations": 1
+  },
+  "7318669": {
+    "id": "7318669",
+    "original": "це припало мені до смаку",
+    "num_pronunciations": 1
+  },
+  "7719897": {
+    "id": "7719897",
+    "original": "позбавлений смаку",
+    "num_pronunciations": 1
+  },
+  "1268115": {
+    "id": "1268115",
+    "original": "сміх",
+    "num_pronunciations": 2
+  },
+  "7054630": {
+    "id": "7054630",
+    "original": "Гучний сміх",
+    "num_pronunciations": 1
+  },
+  "8566968": {
+    "id": "8566968",
+    "original": "закадровий сміх",
+    "num_pronunciations": 1
+  },
+  "8752584": {
+    "id": "8752584",
+    "original": "стримувати сміх",
+    "num_pronunciations": 1
+  },
+  "790434": {
+    "id": "790434",
+    "original": "срібло",
+    "num_pronunciations": 1
+  },
+  "5687513": {
+    "id": "5687513",
+    "original": "з сім'єю",
+    "num_pronunciations": 1
+  },
+  "2808514": {
+    "id": "2808514",
+    "original": "таблиця",
+    "num_pronunciations": 2
+  },
+  "5016200": {
+    "id": "5016200",
+    "original": "таблиця менделєєва",
+    "num_pronunciations": 1
+  },
+  "6736982": {
+    "id": "6736982",
+    "original": "демографічна таблиця",
+    "num_pronunciations": 1
+  },
+  "6737878": {
+    "id": "6737878",
+    "original": "обчислювальна таблиця",
+    "num_pronunciations": 1
+  },
+  "6738379": {
+    "id": "6738379",
+    "original": "таблиця істинності",
+    "num_pronunciations": 1
+  },
+  "790464": {
+    "id": "790464",
+    "original": "танець",
+    "num_pronunciations": 1
+  },
+  "4522121": {
+    "id": "4522121",
+    "original": "кримські татари",
+    "num_pronunciations": 1
+  },
+  "7331118": {
+    "id": "7331118",
+    "original": "Злі татари набігали, Мужа й жону зарубал",
+    "num_pronunciations": 1
+  },
+  "1203120": {
+    "id": "1203120",
+    "original": "терпіти",
+    "num_pronunciations": 2
+  },
+  "1616977": {
+    "id": "1616977",
+    "original": "труднощі",
+    "num_pronunciations": 2
+  },
+  "586237": {
+    "id": "586237",
+    "original": "туризм",
+    "num_pronunciations": 1
+  },
+  "8574822": {
+    "id": "8574822",
+    "original": "Кулінарний туризм",
+    "num_pronunciations": 1
+  },
+  "2115167": {
+    "id": "2115167",
+    "original": "фейсбук",
+    "num_pronunciations": 1
+  },
+  "8574120": {
+    "id": "8574120",
+    "original": "В тебе є Фейсбук?",
+    "num_pronunciations": 1
+  },
+  "2317827": {
+    "id": "2317827",
+    "original": "фінанси",
+    "num_pronunciations": 1
+  },
+  "8369586": {
+    "id": "8369586",
+    "original": "численних",
+    "num_pronunciations": 1
+  },
+  "354873": {
+    "id": "354873",
+    "original": "шар",
+    "num_pronunciations": 2
+  },
+  "2406945": {
+    "id": "2406945",
+    "original": "Югорський шар",
+    "num_pronunciations": 1
+  },
+  "6722141": {
+    "id": "6722141",
+    "original": "абсорбційний шар",
+    "num_pronunciations": 1
+  },
+  "6723438": {
+    "id": "6723438",
+    "original": "лівоідеальний шар",
+    "num_pronunciations": 1
+  },
+  "6726730": {
+    "id": "6726730",
+    "original": "підстильний шар",
+    "num_pronunciations": 1
+  },
+  "8730628": {
+    "id": "8730628",
+    "original": "яєць",
+    "num_pronunciations": 1
+  },
+  "6863249": {
+    "id": "6863249",
+    "original": "Там є кілька яєць.",
+    "num_pronunciations": 1
+  },
+  "8096756": {
+    "id": "8096756",
+    "original": "Я не купую яєць",
+    "num_pronunciations": 1
+  },
+  "788086": {
+    "id": "788086",
+    "original": "Єгипет",
+    "num_pronunciations": 3
+  },
+  "790441": {
+    "id": "790441",
+    "original": "Стародавній Єгипет",
+    "num_pronunciations": 1
+  },
+  "8668930": {
+    "id": "8668930",
+    "original": "інвесторів",
+    "num_pronunciations": 1
+  },
+  "788113": {
+    "id": "788113",
+    "original": "Іспанія",
+    "num_pronunciations": 1
+  },
+  "5271978": {
+    "id": "5271978",
+    "original": "авіакомпанії",
+    "num_pronunciations": 1
+  },
+  "355817": {
+    "id": "355817",
+    "original": "атака",
+    "num_pronunciations": 1
+  },
+  "6360680": {
+    "id": "6360680",
+    "original": "бот-атака",
+    "num_pronunciations": 1
+  },
+  "6398802": {
+    "id": "6398802",
+    "original": "дос-атака",
+    "num_pronunciations": 1
+  },
+  "6428443": {
+    "id": "6428443",
+    "original": "кібер-атака",
+    "num_pronunciations": 1
+  },
+  "6565132": {
+    "id": "6565132",
+    "original": "піар-атака",
+    "num_pronunciations": 1
+  },
+  "8702964": {
+    "id": "8702964",
+    "original": "банківських",
+    "num_pronunciations": 1
+  },
+  "1084822": {
+    "id": "1084822",
+    "original": "Варта",
+    "num_pronunciations": 1
+  },
+  "5219877": {
+    "id": "5219877",
+    "original": "виборчої",
+    "num_pronunciations": 1
+  },
+  "6726519": {
+    "id": "6726519",
+    "original": "сканер високого розділення",
+    "num_pronunciations": 1
+  },
+  "6718559": {
+    "id": "6718559",
+    "original": "виступав",
+    "num_pronunciations": 1
+  },
+  "6727127": {
+    "id": "6727127",
+    "original": "внутрішньо",
+    "num_pronunciations": 1
+  },
+  "6718579": {
+    "id": "6718579",
+    "original": "відмови",
+    "num_pronunciations": 1
+  },
+  "2307044": {
+    "id": "2307044",
+    "original": "відшкодування",
+    "num_pronunciations": 2
+  },
+  "1131684": {
+    "id": "1131684",
+    "original": "годувати",
+    "num_pronunciations": 1
+  },
+  "338679": {
+    "id": "338679",
+    "original": "горло",
+    "num_pronunciations": 4
+  },
+  "8532095": {
+    "id": "8532095",
+    "original": "дерти горло",
+    "num_pronunciations": 1
+  },
+  "6718733": {
+    "id": "6718733",
+    "original": "грою",
+    "num_pronunciations": 1
+  },
+  "362718": {
+    "id": "362718",
+    "original": "дар",
+    "num_pronunciations": 1
+  },
+  "4650383": {
+    "id": "4650383",
+    "original": "Дар'я Степанюк",
+    "num_pronunciations": 1
+  },
+  "4650387": {
+    "id": "4650387",
+    "original": "Дар'я Юшко",
+    "num_pronunciations": 1
+  },
+  "6336235": {
+    "id": "6336235",
+    "original": "Дар'я",
+    "num_pronunciations": 1
+  },
+  "8633920": {
+    "id": "8633920",
+    "original": "демонструє",
+    "num_pronunciations": 1
+  },
+  "8653952": {
+    "id": "8653952",
+    "original": "доступні",
+    "num_pronunciations": 1
+  },
+  "1882493": {
+    "id": "1882493",
+    "original": "дотримання",
+    "num_pronunciations": 1
+  },
+  "8534582": {
+    "id": "8534582",
+    "original": "дотримання постів",
+    "num_pronunciations": 1
+  },
+  "8659010": {
+    "id": "8659010",
+    "original": "дотримання бюджетної дисципліни",
+    "num_pronunciations": 1
+  },
+  "5764168": {
+    "id": "5764168",
+    "original": "дочку",
+    "num_pronunciations": 1
+  },
+  "6718771": {
+    "id": "6718771",
+    "original": "дізналися",
+    "num_pronunciations": 1
+  },
+  "623616": {
+    "id": "623616",
+    "original": "жертва",
+    "num_pronunciations": 1
+  },
+  "1837036": {
+    "id": "1837036",
+    "original": "живлення",
+    "num_pronunciations": 2
+  },
+  "6723237": {
+    "id": "6723237",
+    "original": "паралельне живлення",
+    "num_pronunciations": 1
+  },
+  "6724572": {
+    "id": "6724572",
+    "original": "живлення антени",
+    "num_pronunciations": 1
+  },
+  "6725908": {
+    "id": "6725908",
+    "original": "автономне живлення",
+    "num_pronunciations": 1
+  },
+  "6737617": {
+    "id": "6737617",
+    "original": "живлення шротом",
+    "num_pronunciations": 1
+  },
+  "6737713": {
+    "id": "6737713",
+    "original": "кільцеве живлення",
+    "num_pronunciations": 1
+  },
+  "3032282": {
+    "id": "3032282",
+    "original": "з'ясувати",
+    "num_pronunciations": 1
+  },
+  "1594048": {
+    "id": "1594048",
+    "original": "зайняти",
+    "num_pronunciations": 2
+  },
+  "5440054": {
+    "id": "5440054",
+    "original": "заміна",
+    "num_pronunciations": 1
+  },
+  "6727740": {
+    "id": "6727740",
+    "original": "дворазова заміна",
+    "num_pronunciations": 1
+  },
+  "6720672": {
+    "id": "6720672",
+    "original": "зустрічаються",
+    "num_pronunciations": 1
+  },
+  "789820": {
+    "id": "789820",
+    "original": "календар",
+    "num_pronunciations": 1
+  },
+  "789821": {
+    "id": "789821",
+    "original": "Григоріанський календар",
+    "num_pronunciations": 1
+  },
+  "6723582": {
+    "id": "6723582",
+    "original": "астрономічний календар",
+    "num_pronunciations": 1
+  },
+  "8573411": {
+    "id": "8573411",
+    "original": "календар майя",
+    "num_pronunciations": 1
+  },
+  "630937": {
+    "id": "630937",
+    "original": "капітал",
+    "num_pronunciations": 1
+  },
+  "6726055": {
+    "id": "6726055",
+    "original": "крамовий капітал",
+    "num_pronunciations": 1
+  },
+  "2042241": {
+    "id": "2042241",
+    "original": "картинки",
+    "num_pronunciations": 1
+  },
+  "8548897": {
+    "id": "8548897",
+    "original": "колишня",
+    "num_pronunciations": 1
+  },
+  "8468280": {
+    "id": "8468280",
+    "original": "критику",
+    "num_pronunciations": 1
+  },
+  "8696463": {
+    "id": "8696463",
+    "original": "львівському",
+    "num_pronunciations": 1
+  },
+  "8696462": {
+    "id": "8696462",
+    "original": "по-львівському",
+    "num_pronunciations": 1
+  },
+  "818502": {
+    "id": "818502",
+    "original": "Мінськ",
+    "num_pronunciations": 1
+  },
+  "8554288": {
+    "id": "8554288",
+    "original": "навколишнього",
+    "num_pronunciations": 1
+  },
+  "1296513": {
+    "id": "1296513",
+    "original": "невідомий",
+    "num_pronunciations": 1
+  },
+  "352241": {
+    "id": "352241",
+    "original": "ненависть",
+    "num_pronunciations": 2
+  },
+  "4191593": {
+    "id": "4191593",
+    "original": "нуля",
+    "num_pronunciations": 1
+  },
+  "6720928": {
+    "id": "6720928",
+    "original": "опинилися",
+    "num_pronunciations": 1
+  },
+  "3128264": {
+    "id": "3128264",
+    "original": "освітлення",
+    "num_pronunciations": 1
+  },
+  "6722198": {
+    "id": "6722198",
+    "original": "аварійне освітлення",
+    "num_pronunciations": 1
+  },
+  "6724993": {
+    "id": "6724993",
+    "original": "робоче освітлення",
+    "num_pronunciations": 1
+  },
+  "6727846": {
+    "id": "6727846",
+    "original": "зовнішнє освітлення",
+    "num_pronunciations": 1
+  },
+  "6737811": {
+    "id": "6737811",
+    "original": "електричне освітлення",
+    "num_pronunciations": 1
+  },
+  "1183203": {
+    "id": "1183203",
+    "original": "п'яний",
+    "num_pronunciations": 1
+  },
+  "2511289": {
+    "id": "2511289",
+    "original": "партнер",
+    "num_pronunciations": 2
+  },
+  "3151230": {
+    "id": "3151230",
+    "original": "перемир'я",
+    "num_pronunciations": 1
+  },
+  "8532273": {
+    "id": "8532273",
+    "original": "переїхав",
+    "num_pronunciations": 1
+  },
+  "356814": {
+    "id": "356814",
+    "original": "планом",
+    "num_pronunciations": 1
+  },
+  "6721049": {
+    "id": "6721049",
+    "original": "повній",
+    "num_pronunciations": 1
+  },
+  "364391": {
+    "id": "364391",
+    "original": "подали",
+    "num_pronunciations": 1
+  },
+  "7825267": {
+    "id": "7825267",
+    "original": "Нам подали ячмінні коржики з маслом та варенням.",
+    "num_pronunciations": 1
+  },
+  "6719577": {
+    "id": "6719577",
+    "original": "популярності",
+    "num_pronunciations": 1
+  },
+  "8653958": {
+    "id": "8653958",
+    "original": "постраждалих",
+    "num_pronunciations": 1
+  },
+  "5094469": {
+    "id": "5094469",
+    "original": "починаю",
+    "num_pronunciations": 1
+  },
+  "342400": {
+    "id": "342400",
+    "original": "пояс",
+    "num_pronunciations": 2
+  },
+  "790544": {
+    "id": "790544",
+    "original": "часовий пояс",
+    "num_pronunciations": 1
+  },
+  "6737820": {
+    "id": "6737820",
+    "original": "окиснювальний пояс",
+    "num_pronunciations": 1
+  },
+  "6737821": {
+    "id": "6737821",
+    "original": "двостінчастий пояс",
+    "num_pronunciations": 1
+  },
+  "7964785": {
+    "id": "7964785",
+    "original": "Він був голий по пояс.",
+    "num_pronunciations": 1
+  },
+  "8563749": {
+    "id": "8563749",
+    "original": "зодіакальний пояс",
+    "num_pronunciations": 1
+  },
+  "6721124": {
+    "id": "6721124",
+    "original": "призведе",
+    "num_pronunciations": 1
+  },
+  "1437660": {
+    "id": "1437660",
+    "original": "присутній",
+    "num_pronunciations": 3
+  },
+  "1435446": {
+    "id": "1435446",
+    "original": "притулок",
+    "num_pronunciations": 1
+  },
+  "4421252": {
+    "id": "4421252",
+    "original": "приєднатися",
+    "num_pronunciations": 1
+  },
+  "338624": {
+    "id": "338624",
+    "original": "путь",
+    "num_pronunciations": 1
+  },
+  "2373761": {
+    "id": "2373761",
+    "original": "забивна путь",
+    "num_pronunciations": 1
+  },
+  "2373762": {
+    "id": "2373762",
+    "original": "грудна путь",
+    "num_pronunciations": 1
+  },
+  "2369576": {
+    "id": "2369576",
+    "original": "півгодини",
+    "num_pronunciations": 1
+  },
+  "7445072": {
+    "id": "7445072",
+    "original": "він ловить цю муху вже півгодини",
+    "num_pronunciations": 1
+  },
+  "2808400": {
+    "id": "2808400",
+    "original": "підприємець",
+    "num_pronunciations": 3
+  },
+  "6387648": {
+    "id": "6387648",
+    "original": "горе-підприємець",
+    "num_pronunciations": 1
+  },
+  "349730": {
+    "id": "349730",
+    "original": "рамки",
+    "num_pronunciations": 1
+  },
+  "339464": {
+    "id": "339464",
+    "original": "реального",
+    "num_pronunciations": 1
+  },
+  "8750929": {
+    "id": "8750929",
+    "original": "решти",
+    "num_pronunciations": 1
+  },
+  "2372484": {
+    "id": "2372484",
+    "original": "до решти",
+    "num_pronunciations": 1
+  },
+  "1252572": {
+    "id": "1252572",
+    "original": "реєстрація",
+    "num_pronunciations": 1
+  },
+  "4458307": {
+    "id": "4458307",
+    "original": "реєстрація шлюбу",
+    "num_pronunciations": 1
+  },
+  "6723840": {
+    "id": "6723840",
+    "original": "електротермічна реєстрація",
+    "num_pronunciations": 1
+  },
+  "6726740": {
+    "id": "6726740",
+    "original": "фотографічна реєстрація",
+    "num_pronunciations": 1
+  },
+  "8574861": {
+    "id": "8574861",
+    "original": "Розкажи про себе",
+    "num_pronunciations": 1
+  },
+  "4417909": {
+    "id": "4417909",
+    "original": "розуміємо",
+    "num_pronunciations": 1
+  },
+  "6719790": {
+    "id": "6719790",
+    "original": "руці",
+    "num_pronunciations": 1
+  },
+  "5359009": {
+    "id": "5359009",
+    "original": "на руці",
+    "num_pronunciations": 1
+  },
+  "6350482": {
+    "id": "6350482",
+    "original": "палець на руці",
+    "num_pronunciations": 1
+  },
+  "396323": {
+    "id": "396323",
+    "original": "річка",
+    "num_pronunciations": 4
+  },
+  "5320610": {
+    "id": "5320610",
+    "original": "художній салон",
+    "num_pronunciations": 1
+  },
+  "6803479": {
+    "id": "6803479",
+    "original": "Святої Єлени",
+    "num_pronunciations": 1
+  },
+  "6803481": {
+    "id": "6803481",
+    "original": "Острови Святої Єлени",
+    "num_pronunciations": 1
+  },
+  "6803482": {
+    "id": "6803482",
+    "original": "Острови Святої Єлени Вознесіння і Тристан-да-Кунья",
+    "num_pronunciations": 1
+  },
+  "819098": {
+    "id": "819098",
+    "original": "серпень",
+    "num_pronunciations": 4
+  },
+  "1368290": {
+    "id": "1368290",
+    "original": "сторіччя",
+    "num_pronunciations": 1
+  },
+  "4051518": {
+    "id": "4051518",
+    "original": "терпіння",
+    "num_pronunciations": 1
+  },
+  "8739873": {
+    "id": "8739873",
+    "original": "терпіння і ще раз терпіння",
+    "num_pronunciations": 1
+  },
+  "9362655": {
+    "id": "9362655",
+    "original": "залізне терпіння",
+    "num_pronunciations": 1
+  },
+  "8672616": {
+    "id": "8672616",
+    "original": "транспортні",
+    "num_pronunciations": 1
+  },
+  "6720108": {
+    "id": "6720108",
+    "original": "фізично",
+    "num_pronunciations": 1
+  },
+  "4429979": {
+    "id": "4429979",
+    "original": "хату",
+    "num_pronunciations": 1
+  },
+  "7770205": {
+    "id": "7770205",
+    "original": "На всю хату запахло польовими квітами",
+    "num_pronunciations": 1
+  },
+  "8488688": {
+    "id": "8488688",
+    "original": "без хліба",
+    "num_pronunciations": 1
+  },
+  "4582930": {
+    "id": "4582930",
+    "original": "ціле",
+    "num_pronunciations": 1
+  },
+  "6721455": {
+    "id": "6721455",
+    "original": "шлюбу",
+    "num_pronunciations": 1
+  },
+  "6720191": {
+    "id": "6720191",
+    "original": "штату",
+    "num_pronunciations": 1
+  },
+  "3268575": {
+    "id": "3268575",
+    "original": "шукав",
+    "num_pronunciations": 1
+  },
+  "2428508": {
+    "id": "2428508",
+    "original": "єпископ",
+    "num_pronunciations": 2
+  },
+  "8406465": {
+    "id": "8406465",
+    "original": "імпорту",
+    "num_pronunciations": 1
+  },
+  "4429999": {
+    "id": "4429999",
+    "original": "їздив",
+    "num_pronunciations": 1
+  },
+  "6287073": {
+    "id": "6287073",
+    "original": "їздить",
+    "num_pronunciations": 1
+  },
+  "8255788": {
+    "id": "8255788",
+    "original": "До нас 11-та батарейка їздить",
+    "num_pronunciations": 1
+  },
+  "1239687": {
+    "id": "1239687",
+    "original": "Біле",
+    "num_pronunciations": 1
+  },
+  "8724823": {
+    "id": "8724823",
+    "original": "Все біле",
+    "num_pronunciations": 1
+  },
+  "2495087": {
+    "id": "2495087",
+    "original": "вагу",
+    "num_pronunciations": 1
+  },
+  "4423227": {
+    "id": "4423227",
+    "original": "важка",
+    "num_pronunciations": 1
+  },
+  "1830388": {
+    "id": "1830388",
+    "original": "важка атлетика",
+    "num_pronunciations": 1
+  },
+  "789724": {
+    "id": "789724",
+    "original": "Вимірювання",
+    "num_pronunciations": 1
+  },
+  "6723329": {
+    "id": "6723329",
+    "original": "астрономічне вимірювання",
+    "num_pronunciations": 1
+  },
+  "6724207": {
+    "id": "6724207",
+    "original": "опосередковане вимірювання",
+    "num_pronunciations": 1
+  },
+  "6724819": {
+    "id": "6724819",
+    "original": "коло вимірювання",
+    "num_pronunciations": 1
+  },
+  "6725296": {
+    "id": "6725296",
+    "original": "безпосереднє вимірювання",
+    "num_pronunciations": 1
+  },
+  "6726666": {
+    "id": "6726666",
+    "original": "сукупне вимірювання",
+    "num_pronunciations": 1
+  },
+  "6726841": {
+    "id": "6726841",
+    "original": "одиниця вимірювання",
+    "num_pronunciations": 1
+  },
+  "6728045": {
+    "id": "6728045",
+    "original": "траєкторне вимірювання",
+    "num_pronunciations": 1
+  },
+  "6737895": {
+    "id": "6737895",
+    "original": "сфера вимірювання",
+    "num_pronunciations": 1
+  },
+  "6720347": {
+    "id": "6720347",
+    "original": "виробництві",
+    "num_pronunciations": 1
+  },
+  "8371226": {
+    "id": "8371226",
+    "original": "вказують",
+    "num_pronunciations": 1
+  },
+  "4431060": {
+    "id": "4431060",
+    "original": "воєнного",
+    "num_pronunciations": 1
+  },
+  "4862477": {
+    "id": "4862477",
+    "original": "відкрила",
+    "num_pronunciations": 1
+  },
+  "6718600": {
+    "id": "6718600",
+    "original": "відчув",
+    "num_pronunciations": 1
+  },
+  "1594043": {
+    "id": "1594043",
+    "original": "голосно",
+    "num_pronunciations": 1
+  },
+  "7800294": {
+    "id": "7800294",
+    "original": "Перестань мимрити, говори голосно!",
+    "num_pronunciations": 1
+  },
+  "8703957": {
+    "id": "8703957",
+    "original": "громадському",
+    "num_pronunciations": 1
+  },
+  "76416": {
+    "id": "76416",
+    "original": "Дана",
+    "num_pronunciations": 1
+  },
+  "1297714": {
+    "id": "1297714",
+    "original": "дедалі",
+    "num_pronunciations": 1
+  },
+  "789947": {
+    "id": "789947",
+    "original": "декларація",
+    "num_pronunciations": 1
+  },
+  "8521873": {
+    "id": "8521873",
+    "original": "Алма-Атинська декларація",
+    "num_pronunciations": 1
+  },
+  "8526845": {
+    "id": "8526845",
+    "original": "Декларація тисячоліття",
+    "num_pronunciations": 1
+  },
+  "5204511": {
+    "id": "5204511",
+    "original": "дочки",
+    "num_pronunciations": 1
+  },
+  "5348145": {
+    "id": "5348145",
+    "original": "дружби",
+    "num_pronunciations": 1
+  },
+  "1112926": {
+    "id": "1112926",
+    "original": "дурний",
+    "num_pronunciations": 1
+  },
+  "4370245": {
+    "id": "4370245",
+    "original": "з'єднання",
+    "num_pronunciations": 1
+  },
+  "3990004": {
+    "id": "3990004",
+    "original": "з’єднання",
+    "num_pronunciations": 1
+  },
+  "3022609": {
+    "id": "3022609",
+    "original": "заборона",
+    "num_pronunciations": 1
+  },
+  "8699442": {
+    "id": "8699442",
+    "original": "забудови",
+    "num_pronunciations": 1
+  },
+  "348054": {
+    "id": "348054",
+    "original": "задача",
+    "num_pronunciations": 2
+  },
+  "6738398": {
+    "id": "6738398",
+    "original": "прикладна задача",
+    "num_pronunciations": 1
+  },
+  "344994": {
+    "id": "344994",
+    "original": "запас",
+    "num_pronunciations": 3
+  },
+  "8926107": {
+    "id": "8926107",
+    "original": "словниковий запас",
+    "num_pronunciations": 1
+  },
+  "1145832": {
+    "id": "1145832",
+    "original": "зрадник",
+    "num_pronunciations": 1
+  },
+  "348957": {
+    "id": "348957",
+    "original": "йорка",
+    "num_pronunciations": 1
+  },
+  "4440760": {
+    "id": "4440760",
+    "original": "Нью-Йорка",
+    "num_pronunciations": 1
+  },
+  "4399472": {
+    "id": "4399472",
+    "original": "камені",
+    "num_pronunciations": 1
+  },
+  "586390": {
+    "id": "586390",
+    "original": "кафедра",
+    "num_pronunciations": 1
+  },
+  "2095852": {
+    "id": "2095852",
+    "original": "колекція",
+    "num_pronunciations": 2
+  },
+  "345240": {
+    "id": "345240",
+    "original": "легенда",
+    "num_pronunciations": 1
+  },
+  "819097": {
+    "id": "819097",
+    "original": "липень",
+    "num_pronunciations": 6
+  },
+  "3052539": {
+    "id": "3052539",
+    "original": "логічно",
+    "num_pronunciations": 1
+  },
+  "917116": {
+    "id": "917116",
+    "original": "Люба",
+    "num_pronunciations": 2
+  },
+  "7016743": {
+    "id": "7016743",
+    "original": "До третіх півнів моя люба, до третіх",
+    "num_pronunciations": 1
+  },
+  "2329947": {
+    "id": "2329947",
+    "original": "лікувати",
+    "num_pronunciations": 1
+  },
+  "6719164": {
+    "id": "6719164",
+    "original": "ліцензію",
+    "num_pronunciations": 1
+  },
+  "1197579": {
+    "id": "1197579",
+    "original": "майбутній",
+    "num_pronunciations": 1
+  },
+  "2306764": {
+    "id": "2306764",
+    "original": "малюнки",
+    "num_pronunciations": 1
+  },
+  "680968": {
+    "id": "680968",
+    "original": "Молдова",
+    "num_pronunciations": 2
+  },
+  "6719206": {
+    "id": "6719206",
+    "original": "міжнародне",
+    "num_pronunciations": 1
+  },
+  "1297693": {
+    "id": "1297693",
+    "original": "міцно",
+    "num_pronunciations": 1
+  },
+  "7106370": {
+    "id": "7106370",
+    "original": "У своїй норі міцно спав бурундук",
+    "num_pronunciations": 1
+  },
+  "8035147": {
+    "id": "8035147",
+    "original": "Кулаки були міцно стиснуті, аж побіліли кісточки",
+    "num_pronunciations": 1
+  },
+  "1193184": {
+    "id": "1193184",
+    "original": "навчитися",
+    "num_pronunciations": 1
+  },
+  "8894318": {
+    "id": "8894318",
+    "original": "національно",
+    "num_pronunciations": 1
+  },
+  "8574034": {
+    "id": "8574034",
+    "original": "неважливо",
+    "num_pronunciations": 1
+  },
+  "8574019": {
+    "id": "8574019",
+    "original": "Це неважливо",
+    "num_pronunciations": 1
+  },
+  "6727046": {
+    "id": "6727046",
+    "original": "нормальна підмножина",
+    "num_pronunciations": 1
+  },
+  "6727753": {
+    "id": "6727753",
+    "original": "нормальна кривина",
+    "num_pronunciations": 1
+  },
+  "8095763": {
+    "id": "8095763",
+    "original": "Нормальна така аудюха А6, правда?",
+    "num_pronunciations": 1
+  },
+  "2306954": {
+    "id": "2306954",
+    "original": "паливо",
+    "num_pronunciations": 3
+  },
+  "4270934": {
+    "id": "4270934",
+    "original": "паливо-повітряна суміш",
+    "num_pronunciations": 1
+  },
+  "6722169": {
+    "id": "6722169",
+    "original": "авіаційне паливо",
+    "num_pronunciations": 1
+  },
+  "6723130": {
+    "id": "6723130",
+    "original": "газоподібне паливо",
+    "num_pronunciations": 1
+  },
+  "6723374": {
+    "id": "6723374",
+    "original": "бездимне паливо",
+    "num_pronunciations": 1
+  },
+  "6723466": {
+    "id": "6723466",
+    "original": "важке паливо",
+    "num_pronunciations": 1
+  },
+  "6727289": {
+    "id": "6727289",
+    "original": "бітумінозне паливо",
+    "num_pronunciations": 1
+  },
+  "6737917": {
+    "id": "6737917",
+    "original": "ядерне паливо",
+    "num_pronunciations": 1
+  },
+  "8532134": {
+    "id": "8532134",
+    "original": "природне паливо",
+    "num_pronunciations": 1
+  },
+  "8584914": {
+    "id": "8584914",
+    "original": "акциз на паливо",
+    "num_pronunciations": 1
+  },
+  "8659268": {
+    "id": "8659268",
+    "original": "викопне паливо",
+    "num_pronunciations": 1
+  },
+  "8748844": {
+    "id": "8748844",
+    "original": "рідке паливо",
+    "num_pronunciations": 1
+  },
+  "8334362": {
+    "id": "8334362",
+    "original": "переможці",
+    "num_pronunciations": 1
+  },
+  "1435294": {
+    "id": "1435294",
+    "original": "пиздець",
+    "num_pronunciations": 2
+  },
+  "1168713": {
+    "id": "1168713",
+    "original": "плавання",
+    "num_pronunciations": 1
+  },
+  "6738218": {
+    "id": "6738218",
+    "original": "пробне плавання",
+    "num_pronunciations": 1
+  },
+  "6719529": {
+    "id": "6719529",
+    "original": "подальшого",
+    "num_pronunciations": 1
+  },
+  "2073848": {
+    "id": "2073848",
+    "original": "Подільський",
+    "num_pronunciations": 1
+  },
+  "1238874": {
+    "id": "1238874",
+    "original": "Подільський узвіз",
+    "num_pronunciations": 1
+  },
+  "1239102": {
+    "id": "1239102",
+    "original": "Могилів-Подільський",
+    "num_pronunciations": 1
+  },
+  "2503198": {
+    "id": "2503198",
+    "original": "покаже",
+    "num_pronunciations": 1
+  },
+  "7723359": {
+    "id": "7723359",
+    "original": "зараз Музиченко покаже нам на фізичній карті",
+    "num_pronunciations": 1
+  },
+  "4951226": {
+    "id": "4951226",
+    "original": "Покажіть",
+    "num_pronunciations": 1
+  },
+  "341633": {
+    "id": "341633",
+    "original": "попросила",
+    "num_pronunciations": 1
+  },
+  "5807253": {
+    "id": "5807253",
+    "original": "порівняти",
+    "num_pronunciations": 1
+  },
+  "6719596": {
+    "id": "6719596",
+    "original": "постійного",
+    "num_pronunciations": 1
+  },
+  "8894586": {
+    "id": "8894586",
+    "original": "Це проти моїх принципів",
+    "num_pronunciations": 1
+  },
+  "1723054": {
+    "id": "1723054",
+    "original": "північний",
+    "num_pronunciations": 1
+  },
+  "790333": {
+    "id": "790333",
+    "original": "Північний полюс",
+    "num_pronunciations": 1
+  },
+  "1238725": {
+    "id": "1238725",
+    "original": "Північний провулок",
+    "num_pronunciations": 1
+  },
+  "8534575": {
+    "id": "8534575",
+    "original": "Північний Кавказ",
+    "num_pronunciations": 1
+  },
+  "7534904": {
+    "id": "7534904",
+    "original": "підкреслив щось у ній олівцем",
+    "num_pronunciations": 1
+  },
+  "1436720": {
+    "id": "1436720",
+    "original": "пістолет",
+    "num_pronunciations": 2
+  },
+  "6723451": {
+    "id": "6723451",
+    "original": "пістолет-фарборозпилювач",
+    "num_pronunciations": 1
+  },
+  "6728120": {
+    "id": "6728120",
+    "original": "дюбельний пістолет",
+    "num_pronunciations": 1
+  },
+  "2327068": {
+    "id": "2327068",
+    "original": "реалізація",
+    "num_pronunciations": 1
+  },
+  "6725858": {
+    "id": "6725858",
+    "original": "спадна реалізація",
+    "num_pronunciations": 1
+  },
+  "8526792": {
+    "id": "8526792",
+    "original": "реалізація потенціалу",
+    "num_pronunciations": 1
+  },
+  "8573917": {
+    "id": "8573917",
+    "original": "ефективна реалізація",
+    "num_pronunciations": 1
+  },
+  "5219908": {
+    "id": "5219908",
+    "original": "розглянути",
+    "num_pronunciations": 1
+  },
+  "847062": {
+    "id": "847062",
+    "original": "росіянин",
+    "num_pronunciations": 1
+  },
+  "1115789": {
+    "id": "1115789",
+    "original": "різний",
+    "num_pronunciations": 1
+  },
+  "6719832": {
+    "id": "6719832",
+    "original": "серйозних",
+    "num_pronunciations": 1
+  },
+  "8961284": {
+    "id": "8961284",
+    "original": "скелі",
+    "num_pronunciations": 1
+  },
+  "7348153": {
+    "id": "7348153",
+    "original": "складаються",
+    "num_pronunciations": 1
+  },
+  "357616": {
+    "id": "357616",
+    "original": "сорок",
+    "num_pronunciations": 4
+  },
+  "1120417": {
+    "id": "1120417",
+    "original": "40 (сорок)",
+    "num_pronunciations": 1
+  },
+  "5973430": {
+    "id": "5973430",
+    "original": "сорока [сорок]",
+    "num_pronunciations": 1
+  },
+  "6868445": {
+    "id": "6868445",
+    "original": "46 (сорок шість)",
+    "num_pronunciations": 1
+  },
+  "7024092": {
+    "id": "7024092",
+    "original": "сорок два",
+    "num_pronunciations": 1
+  },
+  "9335157": {
+    "id": "9335157",
+    "original": "сорок вісім",
+    "num_pronunciations": 1
+  },
+  "355874": {
+    "id": "355874",
+    "original": "сотня",
+    "num_pronunciations": 1
+  },
+  "8772180": {
+    "id": "8772180",
+    "original": "Небесна сотня",
+    "num_pronunciations": 1
+  },
+  "9344498": {
+    "id": "9344498",
+    "original": "диванна сотня",
+    "num_pronunciations": 1
+  },
+  "2017604": {
+    "id": "2017604",
+    "original": "спеціаліст",
+    "num_pronunciations": 2
+  },
+  "5410932": {
+    "id": "5410932",
+    "original": "спеціаліст по комп'ютерах",
+    "num_pronunciations": 1
+  },
+  "5419117": {
+    "id": "5419117",
+    "original": "спеціаліст по комп'ютерам",
+    "num_pronunciations": 3
+  },
+  "6719883": {
+    "id": "6719883",
+    "original": "спеціалістів",
+    "num_pronunciations": 1
+  },
+  "4940513": {
+    "id": "4940513",
+    "original": "спортивний",
+    "num_pronunciations": 1
+  },
+  "2408304": {
+    "id": "2408304",
+    "original": "авіаційно-спортивний",
+    "num_pronunciations": 1
+  },
+  "6642097": {
+    "id": "6642097",
+    "original": "фізкультурно-спортивний",
+    "num_pronunciations": 1
+  },
+  "6875820": {
+    "id": "6875820",
+    "original": "спортивний майданчик",
+    "num_pronunciations": 1
+  },
+  "1296079": {
+    "id": "1296079",
+    "original": "спілка",
+    "num_pronunciations": 1
+  },
+  "4397936": {
+    "id": "4397936",
+    "original": "професійна спілка",
+    "num_pronunciations": 1
+  },
+  "8633885": {
+    "id": "8633885",
+    "original": "становив",
+    "num_pronunciations": 1
+  },
+  "623607": {
+    "id": "623607",
+    "original": "старт",
+    "num_pronunciations": 2
+  },
+  "356373": {
+    "id": "356373",
+    "original": "суп",
+    "num_pronunciations": 3
+  },
+  "7095989": {
+    "id": "7095989",
+    "original": "Кашоподібний суп",
+    "num_pronunciations": 1
+  },
+  "7755884": {
+    "id": "7755884",
+    "original": "Гречаний суп",
+    "num_pronunciations": 1
+  },
+  "6146072": {
+    "id": "6146072",
+    "original": "сучасній",
+    "num_pronunciations": 1
+  },
+  "1892250": {
+    "id": "1892250",
+    "original": "тече",
+    "num_pronunciations": 1
+  },
+  "7849388": {
+    "id": "7849388",
+    "original": "Тече труба, запроси водопровідника.",
+    "num_pronunciations": 1
+  },
+  "5628444": {
+    "id": "5628444",
+    "original": "тілі",
+    "num_pronunciations": 1
+  },
+  "1270072": {
+    "id": "1270072",
+    "original": "тінь",
+    "num_pronunciations": 1
+  },
+  "7988756": {
+    "id": "7988756",
+    "original": "Спекотно. Давай знайдемо якусь тінь і посидимо в ній?",
+    "num_pronunciations": 1
+  },
+  "7988758": {
+    "id": "7988758",
+    "original": "Вечорі твоя тінь довша за тебе.",
+    "num_pronunciations": 1
+  },
+  "3022912": {
+    "id": "3022912",
+    "original": "утримувати",
+    "num_pronunciations": 1
+  },
+  "8371225": {
+    "id": "8371225",
+    "original": "факторів",
+    "num_pronunciations": 1
+  },
+  "6721408": {
+    "id": "6721408",
+    "original": "фортеці",
+    "num_pronunciations": 1
+  },
+  "790519": {
+    "id": "790519",
+    "original": "фізика",
+    "num_pronunciations": 3
+  },
+  "2139188": {
+    "id": "2139188",
+    "original": "ядерна фізика",
+    "num_pronunciations": 1
+  },
+  "6726285": {
+    "id": "6726285",
+    "original": "квантова фізика",
+    "num_pronunciations": 1
+  },
+  "6737468": {
+    "id": "6737468",
+    "original": "космічна фізика",
+    "num_pronunciations": 1
+  },
+  "1419397": {
+    "id": "1419397",
+    "original": "художній",
+    "num_pronunciations": 1
+  },
+  "7764629": {
+    "id": "7764629",
+    "original": "Яблука продаються на штуки, а вишні на кілограми",
+    "num_pronunciations": 1
+  },
+  "900733": {
+    "id": "900733",
+    "original": "яйце",
+    "num_pronunciations": 4
+  },
+  "2402979": {
+    "id": "2402979",
+    "original": "яйце-м’ясний",
+    "num_pronunciations": 1
+  },
+  "1086361": {
+    "id": "1086361",
+    "original": "Ярош",
+    "num_pronunciations": 1
+  },
+  "1297293": {
+    "id": "1297293",
+    "original": "ідіот",
+    "num_pronunciations": 1
+  },
+  "365273": {
+    "id": "365273",
+    "original": "автобуса",
+    "num_pronunciations": 1
+  },
+  "6343442": {
+    "id": "6343442",
+    "original": "жовтого шкільного автобуса",
+    "num_pronunciations": 1
+  },
+  "8898138": {
+    "id": "8898138",
+    "original": "Я у автобуса",
+    "num_pronunciations": 1
+  },
+  "5272118": {
+    "id": "5272118",
+    "original": "агенти",
+    "num_pronunciations": 1
+  },
+  "990905": {
+    "id": "990905",
+    "original": "блокада",
+    "num_pronunciations": 1
+  },
+  "8615900": {
+    "id": "8615900",
+    "original": "бореться",
+    "num_pronunciations": 1
+  },
+  "4430495": {
+    "id": "4430495",
+    "original": "білому",
+    "num_pronunciations": 1
+  },
+  "8622060": {
+    "id": "8622060",
+    "original": "чорним по білому",
+    "num_pronunciations": 1
+  },
+  "1413964": {
+    "id": "1413964",
+    "original": "вибирати",
+    "num_pronunciations": 1
+  },
+  "2017510": {
+    "id": "2017510",
+    "original": "вижити",
+    "num_pronunciations": 1
+  },
+  "8710766": {
+    "id": "8710766",
+    "original": "неспроможний вижити",
+    "num_pronunciations": 1
+  },
+  "8560103": {
+    "id": "8560103",
+    "original": "вищі верстви",
+    "num_pronunciations": 1
+  },
+  "1287350": {
+    "id": "1287350",
+    "original": "востаннє",
+    "num_pronunciations": 1
+  },
+  "2826196": {
+    "id": "2826196",
+    "original": "вручення",
+    "num_pronunciations": 1
+  },
+  "1193181": {
+    "id": "1193181",
+    "original": "вчений",
+    "num_pronunciations": 1
+  },
+  "4492772": {
+    "id": "4492772",
+    "original": "то́вчений",
+    "num_pronunciations": 1
+  },
+  "7800367": {
+    "id": "7800367",
+    "original": "Імбирне ситро видихалося після того, як постояло відкритим.",
+    "num_pronunciations": 1
+  },
+  "1239325": {
+    "id": "1239325",
+    "original": "Вільне",
+    "num_pronunciations": 1
+  },
+  "1733055": {
+    "id": "1733055",
+    "original": "Вінницька",
+    "num_pronunciations": 1
+  },
+  "6268412": {
+    "id": "6268412",
+    "original": "дивишся",
+    "num_pronunciations": 1
+  },
+  "8669721": {
+    "id": "8669721",
+    "original": "дивує",
+    "num_pronunciations": 1
+  },
+  "332030": {
+    "id": "332030",
+    "original": "доба",
+    "num_pronunciations": 1
+  },
+  "788321": {
+    "id": "788321",
+    "original": "Бронзова доба",
+    "num_pronunciations": 1
+  },
+  "6720493": {
+    "id": "6720493",
+    "original": "дозволила",
+    "num_pronunciations": 1
+  },
+  "900775": {
+    "id": "900775",
+    "original": "дідусь",
+    "num_pronunciations": 2
+  },
+  "9139145": {
+    "id": "9139145",
+    "original": "Вусатий дідусь",
+    "num_pronunciations": 1
+  },
+  "3013398": {
+    "id": "3013398",
+    "original": "журі",
+    "num_pronunciations": 1
+  },
+  "7405952": {
+    "id": "7405952",
+    "original": "Стару попелясту гуску забив хворостиною поганець сусід",
+    "num_pronunciations": 1
+  },
+  "2305959": {
+    "id": "2305959",
+    "original": "затриманий",
+    "num_pronunciations": 1
+  },
+  "6803478": {
+    "id": "6803478",
+    "original": "Західна Сахара",
+    "num_pronunciations": 1
+  },
+  "8481916": {
+    "id": "8481916",
+    "original": "Західна Австралія",
+    "num_pronunciations": 1
+  },
+  "4524200": {
+    "id": "4524200",
+    "original": "збирають",
+    "num_pronunciations": 2
+  },
+  "1150408": {
+    "id": "1150408",
+    "original": "звернутися",
+    "num_pronunciations": 1
+  },
+  "8731193": {
+    "id": "8731193",
+    "original": "звичайного",
+    "num_pronunciations": 1
+  },
+  "8647222": {
+    "id": "8647222",
+    "original": "кварталі",
+    "num_pronunciations": 1
+  },
+  "1122560": {
+    "id": "1122560",
+    "original": "клятий",
+    "num_pronunciations": 1
+  },
+  "1414029": {
+    "id": "1414029",
+    "original": "про́клятий",
+    "num_pronunciations": 1
+  },
+  "6723891": {
+    "id": "6723891",
+    "original": "світність кольорів",
+    "num_pronunciations": 1
+  },
+  "6737932": {
+    "id": "6737932",
+    "original": "синхронізація кольорів",
+    "num_pronunciations": 1
+  },
+  "4429971": {
+    "id": "4429971",
+    "original": "коні",
+    "num_pronunciations": 1
+  },
+  "510955": {
+    "id": "510955",
+    "original": "Лариса",
+    "num_pronunciations": 1
+  },
+  "6719143": {
+    "id": "6719143",
+    "original": "листі",
+    "num_pronunciations": 1
+  },
+  "1200225": {
+    "id": "1200225",
+    "original": "літати",
+    "num_pronunciations": 3
+  },
+  "847987": {
+    "id": "847987",
+    "original": "максима",
+    "num_pronunciations": 1
+  },
+  "1238613": {
+    "id": "1238613",
+    "original": "Максима Залізняка",
+    "num_pronunciations": 1
+  },
+  "1238650": {
+    "id": "1238650",
+    "original": "Максима Кривоноса",
+    "num_pronunciations": 1
+  },
+  "1238741": {
+    "id": "1238741",
+    "original": "Максима Рильського",
+    "num_pronunciations": 1
+  },
+  "341648": {
+    "id": "341648",
+    "original": "могила",
+    "num_pronunciations": 1
+  },
+  "2591628": {
+    "id": "2591628",
+    "original": "Аскольдова могила",
+    "num_pronunciations": 1
+  },
+  "8512559": {
+    "id": "8512559",
+    "original": "Товста Могила",
+    "num_pronunciations": 1
+  },
+  "8512560": {
+    "id": "8512560",
+    "original": "Гайманова Могила",
+    "num_pronunciations": 1
+  },
+  "6343446": {
+    "id": "6343446",
+    "original": "морської піни",
+    "num_pronunciations": 1
+  },
+  "1180349": {
+    "id": "1180349",
+    "original": "мізки",
+    "num_pronunciations": 1
+  },
+  "3055826": {
+    "id": "3055826",
+    "original": "мін",
+    "num_pronunciations": 1
+  },
+  "6449417": {
+    "id": "6449417",
+    "original": "мін'юст",
+    "num_pronunciations": 1
+  },
+  "6719217": {
+    "id": "6719217",
+    "original": "міські",
+    "num_pronunciations": 1
+  },
+  "8751475": {
+    "id": "8751475",
+    "original": "життєво необхідне",
+    "num_pronunciations": 1
+  },
+  "1294233": {
+    "id": "1294233",
+    "original": "непоганий",
+    "num_pronunciations": 1
+  },
+  "345659": {
+    "id": "345659",
+    "original": "неправда",
+    "num_pronunciations": 1
+  },
+  "6720895": {
+    "id": "6720895",
+    "original": "обіду",
+    "num_pronunciations": 1
+  },
+  "3773465": {
+    "id": "3773465",
+    "original": "після обіду",
+    "num_pronunciations": 2
+  },
+  "8340033": {
+    "id": "8340033",
+    "original": "Берегти, як зіницю ока",
+    "num_pronunciations": 1
+  },
+  "5277167": {
+    "id": "5277167",
+    "original": "оплати",
+    "num_pronunciations": 1
+  },
+  "8108123": {
+    "id": "8108123",
+    "original": "оплату",
+    "num_pronunciations": 1
+  },
+  "3820889": {
+    "id": "3820889",
+    "original": "пальців",
+    "num_pronunciations": 1
+  },
+  "2287412": {
+    "id": "2287412",
+    "original": "Перегляд",
+    "num_pronunciations": 1
+  },
+  "1267287": {
+    "id": "1267287",
+    "original": "поважати",
+    "num_pronunciations": 2
+  },
+  "6785167": {
+    "id": "6785167",
+    "original": "Поділитися піцою",
+    "num_pronunciations": 1
+  },
+  "6719534": {
+    "id": "6719534",
+    "original": "подію",
+    "num_pronunciations": 1
+  },
+  "8739930": {
+    "id": "8739930",
+    "original": "бути популярним",
+    "num_pronunciations": 1
+  },
+  "6146073": {
+    "id": "6146073",
+    "original": "поселення",
+    "num_pronunciations": 1
+  },
+  "6581228": {
+    "id": "6581228",
+    "original": "послання",
+    "num_pronunciations": 1
+  },
+  "7176450": {
+    "id": "7176450",
+    "original": "послання апостолів",
+    "num_pronunciations": 1
+  },
+  "339979": {
+    "id": "339979",
+    "original": "праву",
+    "num_pronunciations": 1
+  },
+  "2397214": {
+    "id": "2397214",
+    "original": "у праву руч",
+    "num_pronunciations": 1
+  },
+  "3123418": {
+    "id": "3123418",
+    "original": "призвести",
+    "num_pronunciations": 1
+  },
+  "8563754": {
+    "id": "8563754",
+    "original": "призвести до",
+    "num_pronunciations": 1
+  },
+  "3911876": {
+    "id": "3911876",
+    "original": "провінції",
+    "num_pronunciations": 1
+  },
+  "6723814": {
+    "id": "6723814",
+    "original": "пряме підсилення",
+    "num_pronunciations": 1
+  },
+  "6724842": {
+    "id": "6724842",
+    "original": "пряме сплетіння",
+    "num_pronunciations": 1
+  },
+  "6725654": {
+    "id": "6725654",
+    "original": "пряме перехоплення",
+    "num_pronunciations": 1
+  },
+  "1723053": {
+    "id": "1723053",
+    "original": "південний",
+    "num_pronunciations": 1
+  },
+  "790328": {
+    "id": "790328",
+    "original": "Південний полюс",
+    "num_pronunciations": 1
+  },
+  "993913": {
+    "id": "993913",
+    "original": "Південний Буг",
+    "num_pronunciations": 1
+  },
+  "1171350": {
+    "id": "1171350",
+    "original": "Південний вокзал",
+    "num_pronunciations": 1
+  },
+  "1421703": {
+    "id": "1421703",
+    "original": "Південний Судан",
+    "num_pronunciations": 1
+  },
+  "2369577": {
+    "id": "2369577",
+    "original": "півдня",
+    "num_pronunciations": 1
+  },
+  "6978746": {
+    "id": "6978746",
+    "original": "Вітри війнули з півдня.",
+    "num_pronunciations": 2
+  },
+  "6719482": {
+    "id": "6719482",
+    "original": "північній",
+    "num_pronunciations": 1
+  },
+  "8633957": {
+    "id": "8633957",
+    "original": "розподілу",
+    "num_pronunciations": 1
+  },
+  "8374884": {
+    "id": "8374884",
+    "original": "рівнів",
+    "num_pronunciations": 1
+  },
+  "8566347": {
+    "id": "8566347",
+    "original": "перевищення безпечних рівнів",
+    "num_pronunciations": 1
+  },
+  "362223": {
+    "id": "362223",
+    "original": "салат",
+    "num_pronunciations": 2
   }
 }
